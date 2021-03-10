@@ -1,19 +1,30 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Who We Are
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![](http://speakingmachine.org/wp-content/uploads/2016/07/1_ClubMeetings.png) Toastmasters International is a world leader in communication and leadership development. Our organization has more than 332,000 memberships. Members improve their speaking and leadership skills by attending one of the 15,400 clubs in 135 countries that make up our global network of meeting locations.\
+The world needs leaders. Leaders head families, coach teams, run businesses and mentor others. These leaders must not only accomplish, they must communicate. By regularly giving speeches, gaining feedback, leading teams and guiding others to achieve their goals in a supportive atmosphere, leaders emerge from the Toastmasters program. Every Toastmasters journey begins with a single speech. During their journey, they learn to tell their stories. They listen and answer. They plan and lead. They give feedback—and accept it. Through our community of learners, they find their path to leadership.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+**Who is Speaking Machine?**
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Speaking Machine was chartered in Elk Grove, CA in 1988 and have helped hundreds in our community gain the confidence and skills to speak and communicate in a warm, friendly and secure atmosphere. Speaking Machine is a President’s Distinguished Toastmaster Club and we empower individuals to become more effective communicators and leaders nourishing and developing Toastmaster’s District Directors, Distinguished Toastmasters and many other leadership roles. We are dedicated to helping you find your voice and to the mission of Toastmasters International.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+**District Mission**
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+We build new clubs and support all clubs in achieving excellence.
+
+**Club Mission**
+
+We provide a supportive and positive learning experience in which members are empowered to develop communication and leadership skills, resulting in greater self-confidence and personal growth.
+
+**Toastmasters International Values**
+
+* Integrity
+* Respect
+* Service
+* Excellence
+
+**Toastmasters International Envisioned Future**
+
+To be the first-choice provider of dynamic, high-value, experiential communication and leadership skills development.
