@@ -3,8 +3,10 @@ templateKey: about-page
 path: /about
 title: Who We Are
 ---
-![](http://speakingmachine.org/wp-content/uploads/2016/07/1_ClubMeetings.png) Toastmasters International is a world leader in communication and leadership development. Our organization has more than 332,000 memberships. Members improve their speaking and leadership skills by attending one of the 15,400 clubs in 135 countries that make up our global network of meeting locations.\
+Toastmasters International is a world leader in communication and leadership development. Our organization has more than 332,000 memberships. Members improve their speaking and leadership skills by attending one of the 15,400 clubs in 135 countries that make up our global network of meeting locations.\
 The world needs leaders. Leaders head families, coach teams, run businesses and mentor others. These leaders must not only accomplish, they must communicate. By regularly giving speeches, gaining feedback, leading teams and guiding others to achieve their goals in a supportive atmosphere, leaders emerge from the Toastmasters program. Every Toastmasters journey begins with a single speech. During their journey, they learn to tell their stories. They listen and answer. They plan and lead. They give feedback—and accept it. Through our community of learners, they find their path to leadership.
+
+![Club meetings](http://speakingmachine.org/wp-content/uploads/2016/07/1_ClubMeetings.png "Club Meetings")
 
 **Who is Speaking Machine?**
 
